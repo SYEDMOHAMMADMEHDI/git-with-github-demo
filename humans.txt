@@ -8,11 +8,4 @@
 # diff change test
     <name> -- <role> -- <twitter>
 
-# THANKS
-
-  Bibhash Roy
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+# New file is added using "git pull" command
